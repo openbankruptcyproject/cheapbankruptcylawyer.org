@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cheapbankruptcylawyer.org/sitemap.xml
